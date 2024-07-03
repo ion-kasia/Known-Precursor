@@ -48,22 +48,22 @@
   precursor.10.c: "출처: Mod $precursor_mod_psp$"
 
   # Forgotten History (not translated in Korean)
-  precursor.11.a: "§GPlexian Swarm §W(§Y고유§W)§!"
-  precursor.11.b: "§RPlexian Swarm §W(§Y고유§W)§!"
-  precursor.12.a: "§GLartia §W(§Y고유§W)§!"
-  precursor.12.b: "§RLartia §W(§Y고유§W)§!"
+  precursor.11.a: "§G플렉시안 무리 §W(§Y고유§W)§!"
+  precursor.11.b: "§R플렉시안 무리 §W(§Y고유§W)§!"
+  precursor.12.a: "§G라르티아 §W(§Y고유§W)§!"
+  precursor.12.b: "§R라르티아 §W(§Y고유§W)§!"
   precursor_mod_fh: "§HForgotten History§!"
   precursor.11.c: "출처: Mod $precursor_mod_fh$"
   precursor.12.c: "출처: Mod $precursor_mod_fh$"
   
   # More Precursors (not translated in Korean)
   # The Ixardian Corporation, The Werediran Signal and The Ezentian Combine.
-  precursor.13.a: "§GIxardian Corporation §W(§Y고유§W)§!"
-  precursor.13.b: "§RIxardian Corporation §W(§Y고유§W)§!"
-  precursor.14.a: "§GWerediran Signal §W(§Y고유§W)§!"
-  precursor.14.b: "§RWerediran Signal §W(§Y고유§W)§!"
-  precursor.15.a: "§GEzentian Combine §W(§Y고유§W)§!"
-  precursor.15.b: "§REzentian Combine §W(§Y고유§W)§!"
+  precursor.13.a: "§G이카르디안 기업 §W(§Y고유§W)§!"
+  precursor.13.b: "§R이카르디안 기업 §W(§Y고유§W)§!"
+  precursor.14.a: "§G베레디란 신호 §W(§Y고유§W)§!"
+  precursor.14.b: "§R베레디란 신호 §W(§Y고유§W)§!"
+  precursor.15.a: "§G에젠티안 연합 §W(§Y고유§W)§!"
+  precursor.15.b: "§R에젠티안 연합 §W(§Y고유§W)§!"
   precursor_mod_mp: "§HMore Precursors§!"
   precursor.13.c: "출처: Mod $precursor_mod_mp$"
   precursor.14.c: "출처: Mod $precursor_mod_mp$"
